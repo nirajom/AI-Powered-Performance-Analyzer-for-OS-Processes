@@ -10,8 +10,8 @@ Follow these steps to set up the project:
 
 #### 1. Clone the Repository  
 ```bash
-git clone https://github.com/YourUsername/AI-Powered-Performance-Analyzer.git
-cd AI-Powered-Performance-Analyzer
+git clone https://github.com/nirajom/AI-Powered-Performance-Analyzer-for-OS-Processes.git
+cd AI-Powered-Performance-Analyzer-for-OS-Processes
 ```
 
 #### 2. Create a Virtual Environment  
