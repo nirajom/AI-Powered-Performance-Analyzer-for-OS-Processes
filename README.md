@@ -1,5 +1,3 @@
-Here's a detailed **step-by-step installation guide** you can include in your `README.md` file:  
-
 ---
 
 ## AI-Powered Performance Analyzer for OS Processes  
